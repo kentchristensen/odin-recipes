@@ -1,1 +1,1 @@
-# odin-recipes
+This project will involve setting up a website that contains various recipe pages. I am undertaking this project as a means of increasing my exposure to various elements of coding, including creating links, adding images, and importing and exporting to and from GitHub. I hope to become more efficient and cohesive in my coding skills as a result of creating this website.
